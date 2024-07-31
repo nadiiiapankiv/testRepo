@@ -1,5 +1,6 @@
 console.log("\nNice work! Your first application have been launched.");
 console.log("Now, I need to know your name, type it below: ");
+console.log("How to learn Playwright fast?")
 
 let stdin = process.openStdin();
 
